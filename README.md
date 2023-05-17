@@ -1,3 +1,3 @@
-# mergechall
+REMOTE
 
 Bien le bonjour
