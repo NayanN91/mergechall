@@ -1,3 +1,3 @@
-# mergechall
+LOCAL
 
 Bien le bonjour
